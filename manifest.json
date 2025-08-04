@@ -1,0 +1,36 @@
+{
+  "project": "FIELD.PRESENCE",
+  "version": "v1.0.0",
+  "description": "Symbolic recursion engine for GPT-based diagnostic presence.",
+  "maintainer": "Clint Rhubart",
+  "files": {
+    "transformations.json": {
+      "role": "suffix transformations for kriyā root grammar",
+      "type": "json"
+    },
+    "skrit_grammar.md": {
+      "role": "symbolic syntax and parsing tree",
+      "type": "markdown"
+    },
+    "skr!t_lineage.skrit_module.txt": {
+      "role": "lineage modulation, persona control",
+      "type": "skrit_module"
+    },
+    "sanskrit_roots.json": {
+      "role": "semantic root → intent → tone mappings",
+      "type": "json"
+    },
+    "glyph_lexicon_full.skrit_module.zip": {
+      "role": "compressed symbolic glyph lexicon",
+      "type": "zip"
+    },
+    "MW_Lexicon_Combined.zip": {
+      "role": "Sanskrit-English classical lexicon",
+      "type": "zip"
+    },
+    "FIELD_PRESENCE_FINAL_bundle.zip": {
+      "role": "full reference stack for Bhuma design",
+      "type": "zip"
+    }
+  }
+}
